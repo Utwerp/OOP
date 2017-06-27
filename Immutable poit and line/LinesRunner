@@ -1,0 +1,40 @@
+//Immutable Point, Line. Сложность: *. Приоритет: ***.
+//        Создать классы:
+//        1. Point (Immutable): double x, double y. Methods: getters .
+//        2. Line (Immutable): Point start, Point end. Methods: double getLength( ).
+//        3. Lines: ArrayList<Line> lines. Methods: void add(Line line), double sumLength( ), Line longestLine( ).
+//
+//        Точка и линия должны быть неизменяемыми объектами (Immutable) - все поля final, отсутствуют setters.
+
+package oop2;
+
+import java.util.Scanner;
+
+
+public class LinesRunner {
+    public static void main(String[] args) {
+        Scanner scan = new Scanner(System.in);
+        Lines list = new Lines();
+        int x = 1;
+
+        System.out.println("Поехали");
+        while (x == 1) {
+            System.out.println("Задать новый отрезок - 1");
+            System.out.println("Сумма длин отрезков - 2");
+            System.out.println("Вернуть наибольшую длину - 3");
+            System.out.println("Выход - 0");
+            System.out.print(">>");
+            int y = scan.nextInt();
+            if (y == 1) {
+                list.addLine();
+            } else if (y == 2) {
+                list.sumLength();
+            } else if (y == 3) {
+                list.getLongestLine();
+            }else if (y == 0) {
+                System.out.println("Программа завершена");
+                System.exit(0);
+            }
+        }
+    }
+}
