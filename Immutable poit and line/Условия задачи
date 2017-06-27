@@ -1,0 +1,7 @@
+Immutable Point, Line. Сложность: *. Приоритет: ***.
+Создать классы:
+1. Point (Immutable): double x, double y. Methods: getters .
+2. Line (Immutable): Point start, Point end. Methods: double getLength( ).
+3. Lines: ArrayList<Line> lines. Methods: void add(Line line), double sumLength( ), Line longestLine( ).
+
+Точка и линия должны быть неизменяемыми объектами (Immutable) - все поля final, отсутствуют setters.
