@@ -1,0 +1,23 @@
+The House;2017;Comedy;Will Ferrell,Amy Poehler,Ryan Simpkins
+Army of Darkness;1992;Comedy,Horror;Bruce Campbell,Embeth Davidtz,Marcus Gilbert
+The Evil Dead;1981;Horror;Bruce Campbell,Ellen Sandweiss,Richard DeManincor
+Evil Dead II;1987;Comedy,Horror;Bruce Campbell,Sarah Berry,Dan Hicks
+Once Upon a Time in Venice;2017;Action,Comedy,Thriller;Bruce Willis,John Goodman,Jason Momoa
+The Sixth Sense;1999;Drama,Mystery,Thriller;Bruce Willis,Haley Joel Osment,Toni Collette
+Die Hard;1987;Action,Thriller;Bruce Willis,Alan Rickman,Bonnie Bedelia
+Spider-Man: Homecoming;2017;Action,Adventure,Sci-Fi;Tom Holland,Michael Keaton,Robert Downey Jr.
+The Current War;2017;Biography,Drama,History;Tom Holland,Katherine Waterston,Benedict Cumberbatch
+Wheels;2014;Drama;Donavon Warren
+The Dark Knight;2008;Action,Crime,Drama;Christian Bale,Heath Ledger,Aaron Eckhart
+Intouchables;2011;Biography,Comedy,Drama;Francois Cluzet,Omar Sy,Anne Le Ny
+Back to the Future;1985;Adventure,Comedy,Sci-Fi; Michael J. Fox,Christopher Lloyd,Lea Thompson
+The Lord of the Rings: The Return of the King;2003;Adventure,Drama,Fantasy;Elijah Wood,Viggo Mortensen,Ian McKellen
+Inception;2010;Action,Adventure,Sci-Fi;Leonardo DiCaprio,Joseph Gordon-Levitt,Ellen Page
+Star Wars: Episode V - The Empire Strikes Back;1980;Action,Adventure,Fantasy;Mark Hamill,Harrison Ford,Carrie Fisher
+The Matrix;1999;Action,Sci-Fi;Keanu Reeves,Laurence Fishburne,Carrie-Anne Moss
+Star Wars;1977;Action,Adventure,Fantasy;Mark Hamill,Harrison Ford,Carrie Fisher
+Interstellar;2014;Adventure,Drama,Sci-Fi; Matthew McConaughey,Anne Hathaway,Jessica Chastain
+The Lord of the Rings: The Fellowship of the Ring;2001;Adventure,Drama,Fantasy; Elijah Wood,Ian McKellen,Orlando Bloom
+The Lord of the Rings: The Two Towers;2002;Adventure,Drama,Fantasy; Elijah Wood,Ian McKellen,Viggo Mortensen
+Pirates of the Caribbean: The Curse of the Black Pearl;2003;Action,Adventure,Fantasy; Johnny Depp,Geoffrey Rush,Orlando Bloom
+Pirates of the Caribbean: Dead Man's Chest;2006;Action,Adventure,Fantasy;Johnny Depp,Orlando Bloom,Keira Knightley
